@@ -111,7 +111,3 @@ This project is released under the MIT License — free to use, modify, and shar
 
 
 ---
-
-Would you like me to add a “Project Output Preview” section (showing example screenshots or description of how it looks on screen)? It’s great for your documentation or Phase 4/5 report.
-
-
